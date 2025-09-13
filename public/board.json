@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "title": "Rewrite album and player pages to take advantage of SSR",
+      "type": "backlog",
+      "priority": "none",
+      "tag": "improvement"
+    },
+    {
+      "title": "Rewrite miniplayer using React Bottom Sheet Component",
+      "type": "backlog",
+      "priority": "none",
+      "tag": "improvement"
+    },
+    {
+      "title": "Fix broken notification media info",
+      "type": "backlog",
+      "priority": "medium",
+      "tag": "bug"
+    },
+    {
+      "title": "Add Thank God For Drugs",
+      "type": "todo",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add Waves",
+      "type": "todo",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add YEBU",
+      "type": "todo",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add WAR",
+      "type": "todo",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add VULTURES 3",
+      "type": "todo",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add So Help Me God",
+      "type": "in progress",
+      "priority": "medium",
+      "tag": "content"
+    },
+    {
+      "title": "Add Wolves",
+      "type": "cancelled",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add Watch The Throne 2",
+      "type": "cancelled",
+      "priority": "none",
+      "tag": "content"
+    },
+    {
+      "title": "Add Cruel Winter",
+      "type": "cancelled",
+      "priority": "none",
+      "tag": "content"
+    }
+  ]
+}
