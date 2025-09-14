@@ -126,7 +126,7 @@ export function CardComponent(props: { Icon: LucideIcon, title: string, filterTy
                                             element.tag === 'improvement' && 'bg-indigo-500 text-white dark:bg-indigo-600'
                                         )}
                                     >
-                                        {capitalizeFirstLetter(element.tag)} priority
+                                        {capitalizeFirstLetter(element.tag)}
                                     </Badge>
                                     <Badge className="bg-primary-foreground/50 rounded-full p-1 border-border">
                                         <TooltipProvider>
@@ -145,7 +145,7 @@ export function CardComponent(props: { Icon: LucideIcon, title: string, filterTy
                                                     </p>
                                                 </TooltipTrigger>
                                                 <TooltipContent align="center" className="-translate-y-1">
-                                                    <p>{capitalizeFirstLetter(element.priority)}</p>
+                                                    <p>Priority: {element.priority}</p>
                                                 </TooltipContent>
                                             </Tooltip>
                                         </TooltipProvider>

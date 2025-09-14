@@ -2,14 +2,14 @@
   "tasks": [
     {
       "title": "Rewrite album and player pages to take advantage of SSR",
-      "type": "backlog",
-      "priority": "none",
+      "type": "in progress",
+      "priority": "medium",
       "tag": "improvement"
     },
     {
-      "title": "Rewrite miniplayer using React Bottom Sheet Component",
-      "type": "backlog",
-      "priority": "none",
+      "title": "Rewrite miniplayer using React Sheet Slide",
+      "type": "todo",
+      "priority": "low",
       "tag": "improvement"
     },
     {
